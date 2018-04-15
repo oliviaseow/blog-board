@@ -1,0 +1,13 @@
+secretfile.py
+.DS_Store
+.DS_Store?
+*.pyc
+*~
+\#*
+.\#*
+*\(Autosaved\)*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
